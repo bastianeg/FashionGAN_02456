@@ -7,4 +7,4 @@ Bastian Grønager, Martin Jessen, Monika Frolcova
 
 ## How to train the network
 
-It is expected that you have the fashion synthesis benchmark dataset G2.h5 file as well as the descriptive .mat files.
+It is expected that you have the fashion synthesis benchmark dataset G2.h5 file as well as the language_original.mat file.
